@@ -1,0 +1,2 @@
+# testDealWithConflict
+just test
